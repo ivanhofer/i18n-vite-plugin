@@ -1,4 +1,4 @@
-# vite-plugin-i18n
+# i18n-vite-plugin
 
 **Vite plugin for i18n**
 
