@@ -1,0 +1,24 @@
+{
+  "name": "vite-plugin-i18n",
+  "version": "0.0.0",
+  "description": "Vite plugin for i18n",
+  "author": "ivanhofer",
+  "homepage": "https://github.com/ivanhofer/vite-plugin-i18n#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanhofer/vite-plugin-i18n.git"
+  },
+  "keywords": [
+    "i18n",
+    "internationalization",
+    "vite",
+    "vite-plugin-i18n",
+    "vite-plugin",
+    "vite-i18n"
+  ],
+  "type": "module",
+  "funding": {
+		"type": "github",
+		"url": "https://github.com/sponsors/ivanhofer"
+	}
+}
